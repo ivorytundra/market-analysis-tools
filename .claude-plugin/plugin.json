@@ -1,5 +1,6 @@
 {
   "name": "market-analysis-tools",
+  "version": "1.0.0",
   "description": "Claude Code skill for building stock/options analysis tools — screeners, backtesting engines, Greeks dashboards, and signal detectors with built-in data validation, bias controls, and staleness handling",
   "author": {
     "name": "ivorytundra"

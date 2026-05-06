@@ -1,0 +1,19 @@
+{
+  "name": "market-analysis-tools",
+  "description": "Market analysis tools plugin for Claude Code",
+  "owner": {
+    "name": "ivorytundra",
+    "email": "ivorytundra@users.noreply.github.com"
+  },
+  "plugins": [
+    {
+      "name": "market-analysis-tools",
+      "description": "Claude Code skill for building stock/options analysis tools with data validation, bias controls, and staleness handling",
+      "version": "1.0.0",
+      "source": "./",
+      "author": {
+        "name": "ivorytundra"
+      }
+    }
+  ]
+}
